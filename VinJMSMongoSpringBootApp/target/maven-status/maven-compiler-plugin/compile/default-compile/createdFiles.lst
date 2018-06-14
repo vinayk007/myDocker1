@@ -1,0 +1,9 @@
+com\vin\docker\entity\MyMongoRepository.class
+com\vin\docker\entity\EmpCrud.class
+com\vin\docker\service\MyJmsReceiver.class
+com\vin\docker\service\MyExceptionHandler.class
+com\vin\docker\service\EmpRestController.class
+com\vin\docker\VinDocker1Application.class
+com\vin\docker\service\EmpService.class
+com\vin\docker\entity\Employee.class
+com\vin\docker\entity\MessageTracker.class
